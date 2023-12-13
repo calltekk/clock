@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+    background: url("/assets/images/pexels-moose-photos-1037993.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur;
+}
+
+  #txt {
+      color: white;
+      font-family: 'Orbitron', sans-serif;
+      justify-content: center;
+      text-align: center;
+      font-size: 6rem;
+      letter-spacing: 2px;
+      background: rgba(255, 165, 245, 0.863);
+      border-radius: 0.9rem;
+      backdrop-filter: blur;
+  }
