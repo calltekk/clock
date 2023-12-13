@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url("/assets/images/pexels-moose-photos-1037993.jpg");
+    background: url("./assets/images/pexels-moose-photos-1037993.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
